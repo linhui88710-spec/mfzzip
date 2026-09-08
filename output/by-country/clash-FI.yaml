@@ -18,9 +18,9 @@ proxies:
   client-fingerprint: firefox
 - name: 🇫🇮 FI 02 - xiaohe
   type: vless
-  server: k2.cloud--vpn.site
+  server: a2.arshia-nova.ir
   port: 443
-  uuid: daee66b7-3f5e-46d7-83c1-4d93a5fb33c3
+  uuid: f54c98ce-ac44-4984-db61-ccca1fdbbf72
   udp: true
   tls: true
   skip-cert-verify: true
