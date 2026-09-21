@@ -6,7 +6,7 @@ log-level: info
 proxies:
 - name: 🇲🇾 MY 01 - xiaohe
   type: vless
-  server: 43.159.4.80
+  server: 68.64.178.52
   port: 443
   uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
   udp: true
@@ -15,7 +15,7 @@ proxies:
   servername: cdn8848.776676.xyz
   network: ws
   ws-opts:
-    path: /episode/files?ed=2560fp=chrome
+    path: /downloads/posts/programs?ed=2560fp=chrome
     headers:
       Host: cdn8848.776676.xyz
 proxy-groups:
